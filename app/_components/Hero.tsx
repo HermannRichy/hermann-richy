@@ -1,7 +1,4 @@
 import { Section } from "./Section";
-import clsx from "clsx";
-import { TabletSmartphone } from "lucide-react";
-import Link from "next/link";
 import { Code } from "./Code";
 
 export const Hero = () => {
@@ -16,7 +13,7 @@ export const Hero = () => {
                 </h3>
                 <p className="text-base">
                     <Code className="inline-flex items-center gap-1">
-                        J'adore{" "}
+                        J&apos;adore{" "}
                         <img
                             src="/smiling.svg"
                             className="w-5 inline-block"

@@ -1,11 +1,4 @@
-import {
-    Megaphone,
-    HousePlus,
-    Rocket,
-    GraduationCap,
-    Coffee,
-    LucideIcon,
-} from "lucide-react";
+import { LucideIcon } from "lucide-react";
 import Link from "next/link";
 
 type SideProjectProps = {

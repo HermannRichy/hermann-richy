@@ -7,7 +7,7 @@ export const Skills = () => {
         <Section className="flex flex-col items-start gap-4 mt-24">
             <Badge variant={"outline"}>Skills</Badge>
             <h2 className="scroll-m-20 pb-2 text-3xl font-semibold tracking-tight first:mt-0 font-code">
-                J'adore travailler avec...
+                J&apos;adore travailler avec...
             </h2>
             <div className="flex max-md:flex-col gap-4">
                 <div className="flex flex-col gap-2 flex-1">
@@ -22,7 +22,7 @@ export const Skills = () => {
                     </h3>
                     <p className="text-sm text-muted-foreground">
                         Mon framework Javascript principal est{" "}
-                        <Code>React JS</Code>. J'utilise aussi{" "}
+                        <Code>React JS</Code>. J&apos;utilise aussi{" "}
                         <Code>Next JS</Code> pour le développement frontend et
                         backend.
                     </p>
@@ -55,7 +55,7 @@ export const Skills = () => {
                     </h3>
                     <p className="text-sm text-muted-foreground">
                         Une base de données relationnelle pour stocker vos
-                        données et fichier. J'utilise fréquemment{" "}
+                        données et fichier. J&apos;utilise fréquemment{" "}
                         <Code>Supabase</Code> et <Code>Firebase</Code>
                     </p>
                 </div>
@@ -88,8 +88,8 @@ export const Skills = () => {
                         Node JS
                     </h3>
                     <p className="text-sm text-muted-foreground">
-                        La plateforme d'exécution JavaScript côté serveur me
-                        permettant de créer des applications{" "}
+                        La plateforme d&apos;exécution JavaScript côté serveur
+                        me permettant de créer des applications{" "}
                         <Code>rapides</Code> et
                         <Code>évolutives</Code>
                     </p>

@@ -2,7 +2,7 @@
 
 import { Button, buttonVariants } from "@/components/ui/button";
 import { Section } from "./Section";
-import { Facebook, Github, Linkedin, Mail, Moon, Sun } from "lucide-react";
+import { Github, Linkedin, Moon, Sun } from "lucide-react";
 import Link from "next/link";
 import clsx from "clsx";
 import { useTheme } from "next-themes";
